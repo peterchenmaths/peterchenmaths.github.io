@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Peter’s Year 12 Advanced Maths</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Peter’s Year 12 Advanced Maths</h1>
+    <p class="tagline">2022 Normanhurst Boys DUX · 99.75 ATAR · State Rank 6<sup>th</sup> in Maths Adv</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I’m currently coaching ~15 Year 12 students for their HSC. My goal is simple: maximise <strong>your</strong> marks while minimising stress.
+    </p>
+  </section>
+
+  <section id="whats-included">
+    <h2>What’s Included</h2>
+    <ul>
+      <li>Weekly 2-hour class</li>
+      <li>Weekly quiz & handwritten homework (exam-style & past HSC)</li>
+      <li>Free optional 1-hour Q&A / tutorial each week</li>
+      <li>24/7 support via message, Insta, Discord or email</li>
+    </ul>
+  </section>
+
+  <section id="structure">
+    <h2>Class Structure</h2>
+    <h3>Before class</h3>
+    <ul><li>Finish homework & bring questions</li></ul>
+    <h3>During class</h3>
+    <ul>
+      <li>Quiz feedback (5-10 min)</li>
+      <li>New quiz (15-20 min)</li>
+      <li>New content (~1 h 30 min)</li>
+    </ul>
+    <h3>Optional complementary class</h3>
+    <ul><li>Free 1-hour 1-to-1 or small-group tutorial any week</li></ul>
+  </section>
+
+  <section id="times">
+    <h2>Times & Location</h2>
+    <p>
+      Flexible weekly slot chosen by the group.  
+      Online (Google Meet) or in-person at my house in Cherrybrook.
+    </p>
+  </section>
+
+  <section id="pricing">
+    <h2>Rates (per person)</h2>
+    <table>
+      <tr><td>2 students</td><td>$80 / h</td></tr>
+      <tr><td>3 students</td><td>$65 / h</td></tr>
+      <tr><td>4–5 students</td><td>$50 / h</td></tr>
+    </table>
+    <p>
+      Invoiced at the end of each term.  
+      Cash, bank transfer or PayID accepted.
+    </p>
+  </section>
+
+  <section id="policies">
+    <h2>Absences & Referrals</h2>
+    <p>
+      <strong>Absence:</strong> notify early → schedule a catch-up (charged as 2 h), or pay 1 h for materials.<br>
+      <strong>Referral:</strong> you and your friend each get a free hour.
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact / Book Free Trial</h2>
+    <p>
+      📞 <a href="tel:+61468622581">0468 622 581</a><br>
+      📧 <a href="mailto:peterdchen1@gmail.com">peterdchen1@gmail.com</a><br>
+      📸 IG: <a href="https://instagram.com/_peterdchen1" target="_blank">_peterdchen1</a><br>
+      💬 Discord: _peterdchen1
+    </p>
+  </section>
+
+  <footer>
+    <small>© 2025 Peter Chen. Built with ❤️ for Year 12 students.</small>
+  </footer>
+</body>
+</html>
